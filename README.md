@@ -1,0 +1,2 @@
+# happy-birthday-Harmonic-Hand-Gestures-Crafting-Musical-Experiences-with-Python.
+GestureTunes is an interactive music player that transforms hand movements into musical notes. Leveraging the power of OpenCV for real-time video capture and analysis, combined with Pygame for audio feedback, users can play the "Happy Birthday" song through simple hand gestures. Experience a unique and engaging way to interact with music.
