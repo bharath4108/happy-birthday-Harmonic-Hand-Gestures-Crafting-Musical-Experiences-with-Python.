@@ -28,7 +28,7 @@ pip install opencv-python pygame mediapipe numpy
 1. Clone the repository or download the Python script.
 2. Navigate to the directory and run:
 ```bash
-python <script_name>.py
+python main-code.py
 ```
 3. Display your hand in front of the webcam. The program will start playing the "Happy Birthday" tune.
 4. To exit, press 'q'.
